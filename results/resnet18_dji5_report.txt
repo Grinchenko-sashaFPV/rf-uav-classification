@@ -1,0 +1,11 @@
+                precision    recall  f1-score   support
+
+ DJI FPV COMBO      1.000     1.000     1.000       334
+    DJI AVATA2      1.000     1.000     1.000       267
+     DJI MINI3      1.000     1.000     1.000       315
+ DJI MINI4 PRO      1.000     1.000     1.000       154
+DJI MAVIC3 PRO      1.000     1.000     1.000       225
+
+      accuracy                          1.000      1295
+     macro avg      1.000     1.000     1.000      1295
+  weighted avg      1.000     1.000     1.000      1295

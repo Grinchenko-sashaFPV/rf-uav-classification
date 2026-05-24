@@ -1,0 +1,53 @@
+Device: cuda
+Experiment: all37 (37 classes)
+╟эрщфхэю 19085 чюсЁрцхэ№ є 37 ъырёрї
+  train: 15284,  val: 3801
+Loaded C:\thesis\models\resnet50_all37_best.pt, val_acc was 0.998
+
+=== Classification Report ===
+                    precision    recall  f1-score   support
+
+   DAUTEL EVO nano      1.000     1.000     1.000        71
+    DEVENTION DEVO      1.000     1.000     1.000        62
+        DJI AVATA2      1.000     1.000     1.000       267
+     DJI FPV COMBO      1.000     1.000     1.000       334
+    DJI MAVIC3 PRO      1.000     1.000     1.000       225
+         DJI MINI3      0.997     1.000     0.998       315
+     DJI MINI4 PRO      1.000     0.994     0.997       154
+      FLYSKY EL 18      1.000     1.000     1.000        82
+     FLYSKY FS I6X      1.000     0.987     0.993        77
+      FLYSKY NV 14      1.000     1.000     1.000        64
+         FRSKY-X14      1.000     1.000     1.000        51
+        FRSKY-X20R      1.000     1.000     1.000        51
+    FRSKY-X9DP2019      1.000     0.985     0.992        65
+       FUTABA-T10J      1.000     1.000     1.000        90
+      FUTABA-T14SG      1.000     1.000     1.000       135
+      FUTABA-T16IZ      1.000     0.991     0.996       114
+      FUTABA-T18SZ      1.000     1.000     1.000       103
+      Herelink-Hx4      1.000     1.000     1.000        51
+     JR PROPO XG14      1.000     1.000     1.000        73
+      JR PROPO XG7      0.977     1.000     0.989        43
+        JUMPER-T14      0.980     1.000     0.990        50
+     JUMPER-TProV2      0.980     1.000     0.990        49
+ RadioMaster BOXER      1.000     1.000     1.000        48
+ RadioMaster TX16S      1.000     1.000     1.000        42
+ Radiolink AT10 II      0.984     0.984     0.984        63
+Radiolink AT9S Pro      0.981     0.981     0.981        52
+         SIYI FT24      1.000     1.000     1.000        69
+         SIYI MK15      1.000     0.993     0.997       150
+         SIYI MK32      0.994     1.000     0.997       156
+      SKYDROID-H12      1.000     1.000     1.000        73
+      SKYDROID-T10      1.000     1.000     1.000       111
+         WFLY ET10      0.990     1.000     0.995        95
+        WFLY ET16S      1.000     0.985     0.992        66
+     WFLY WFT09SII      1.000     1.000     1.000        80
+       YunZhuo-H12      1.000     1.000     1.000        62
+       YunZhuo-H16      1.000     1.000     1.000       122
+       YunZhuo-H30      1.000     1.000     1.000        86
+
+          accuracy                          0.998      3801
+         macro avg      0.997     0.997     0.997      3801
+      weighted avg      0.998     0.998     0.998      3801
+
+
+Confusion matrix -> C:\thesis\results\resnet50_all37_confusion_matrix.png

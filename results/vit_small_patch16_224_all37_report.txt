@@ -1,0 +1,43 @@
+                    precision    recall  f1-score   support
+
+   DAUTEL EVO nano      1.000     1.000     1.000        71
+    DEVENTION DEVO      1.000     1.000     1.000        62
+        DJI AVATA2      0.996     0.996     0.996       267
+     DJI FPV COMBO      1.000     1.000     1.000       334
+    DJI MAVIC3 PRO      1.000     1.000     1.000       225
+         DJI MINI3      0.997     1.000     0.998       315
+     DJI MINI4 PRO      0.987     0.994     0.990       154
+      FLYSKY EL 18      1.000     1.000     1.000        82
+     FLYSKY FS I6X      1.000     0.987     0.993        77
+      FLYSKY NV 14      1.000     1.000     1.000        64
+         FRSKY-X14      1.000     0.980     0.990        51
+        FRSKY-X20R      1.000     0.980     0.990        51
+    FRSKY-X9DP2019      1.000     0.985     0.992        65
+       FUTABA-T10J      1.000     0.989     0.994        90
+      FUTABA-T14SG      1.000     1.000     1.000       135
+      FUTABA-T16IZ      0.982     0.982     0.982       114
+      FUTABA-T18SZ      0.990     0.971     0.980       103
+      Herelink-Hx4      1.000     1.000     1.000        51
+     JR PROPO XG14      0.986     1.000     0.993        73
+      JR PROPO XG7      1.000     1.000     1.000        43
+        JUMPER-T14      0.939     0.920     0.929        50
+     JUMPER-TProV2      0.925     1.000     0.961        49
+ RadioMaster BOXER      0.959     0.979     0.969        48
+ RadioMaster TX16S      0.977     1.000     0.988        42
+ Radiolink AT10 II      0.849     0.984     0.912        63
+Radiolink AT9S Pro      0.976     0.788     0.872        52
+         SIYI FT24      1.000     1.000     1.000        69
+         SIYI MK15      1.000     0.993     0.997       150
+         SIYI MK32      1.000     1.000     1.000       156
+      SKYDROID-H12      1.000     1.000     1.000        73
+      SKYDROID-T10      1.000     1.000     1.000       111
+         WFLY ET10      0.950     1.000     0.974        95
+        WFLY ET16S      1.000     0.939     0.969        66
+     WFLY WFT09SII      1.000     1.000     1.000        80
+       YunZhuo-H12      1.000     1.000     1.000        62
+       YunZhuo-H16      1.000     1.000     1.000       122
+       YunZhuo-H30      1.000     0.988     0.994        86
+
+          accuracy                          0.991      3801
+         macro avg      0.987     0.985     0.986      3801
+      weighted avg      0.991     0.991     0.991      3801
